@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Im a data engineering.<br>I like cat
+I'm currently learning data engineering.<br>I like cat
 
 
 ## 🌐 Socials:
